@@ -17,7 +17,7 @@ const Add = () => {
   };
 
   const submitValue = () => {
-    submitValue(input);
+    console.log(input)
   };
   return (
     <>
